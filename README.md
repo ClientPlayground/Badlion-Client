@@ -1,12 +1,10 @@
-# Badlion Source Code
+# Badlion Client
+1.8.9 | Beta 2.0.0
 
-Here you can download the Source Code of Badlion 2.0.0-v-beta.
+## Disclaimer
+This repo is for educational purposes only!
 
-## Note!
+The purpose of this repo is to learn how Minecraft PvP clients work.
 
-BadlionAntiCheat (BAC) was removed by me, and I won't publish it so don't ask!
-
-Some files might still be obfuscated, but most of them are readable.
-
-## License
-Use it for whatever you want I don't care.
+## Extra Info
+Does not contain BadlionAntiCheat (BAC). Some files might still be obfuscated, but most of them are readable.
